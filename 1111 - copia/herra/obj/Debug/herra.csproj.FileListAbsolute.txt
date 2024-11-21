@@ -1,0 +1,33 @@
+C:\Users\Kely Barrientos\Desktop\1111\herra\bin\Debug\herra.exe.config
+C:\Users\Kely Barrientos\Desktop\1111\herra\bin\Debug\herra.exe
+C:\Users\Kely Barrientos\Desktop\1111\herra\bin\Debug\herra.pdb
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.csproj.AssemblyReference.cache
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Form1.resources
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Properties.Resources.resources
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.csproj.GenerateResource.cache
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.csproj.CoreCompileInputs.cache
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.exe
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.pdb
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Form2.resources
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Form3.resources
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Form4.resources
+C:\Users\Kely Barrientos\Desktop\1111\herra\obj\Debug\herra.Form5.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\bin\Debug\herra.exe.config
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\bin\Debug\herra.exe
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\bin\Debug\herra.pdb
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.csproj.AssemblyReference.cache
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form1.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form10.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form2.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form3.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form4.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form5.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form6.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form7.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form8.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Form9.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.Properties.Resources.resources
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.csproj.GenerateResource.cache
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.csproj.CoreCompileInputs.cache
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.exe
+C:\Users\Kely Barrientos\Desktop\1111 - copia\herra\obj\Debug\herra.pdb
